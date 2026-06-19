@@ -132,4 +132,5 @@ val primera fecha:2025-02-11, val ultima fecha:2025-03-27
 test primera fecha:2025-05-09, test ultima fecha:2026-03-18
 
 
-Iteracion 4884 - dias faltantes en ultimo set: 412
+Iteracion 4884 - dias faltantes en ultimo set: 160
+Los ultimos 62 se ignoraran
